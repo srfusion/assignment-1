@@ -10,7 +10,7 @@ subMetering1 <- as.numeric(semidata$Sub_metering_1)
 subMetering2 <- as.numeric(semidata$Sub_metering_2)
 subMetering3 <- as.numeric(semidata$Sub_metering_3)
 
-# Plotting
+# Plotting 4
 png("plot4.png", width=480, height=480)
 # Plot Array 2-2
 par(mfrow = c(2, 2)) 
